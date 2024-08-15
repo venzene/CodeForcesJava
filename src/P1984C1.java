@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Magnitude1984C1 {
+public class P1984C1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
